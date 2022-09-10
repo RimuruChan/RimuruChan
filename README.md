@@ -3,5 +3,5 @@
 #### Statistical data
 ![](https://github-readme-stats.vercel.app/api?username=RimuruChan&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
 
-#### Visitors (Since 2021/11/1)
-![](https://count.getloli.com/get/@RimuruChan?theme=rule34)
+#### Visitors (Since 2022/9/10)
+![](https://moecount.htloli.com/get/@RimuruChan?theme=rule34)
