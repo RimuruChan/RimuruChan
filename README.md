@@ -7,6 +7,3 @@ Nya~ Hi there 👋.
 
 #### Visitors (Since 2021/11/1)
 ![](https://count.getloli.com/get/@RimuruChan?theme=rule34)
-
-#### Genshin Impact Statics
-![](https://genshin-card.getloli.com/rand/268328506.png)
